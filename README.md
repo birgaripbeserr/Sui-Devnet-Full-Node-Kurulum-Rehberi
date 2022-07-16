@@ -1,0 +1,1 @@
+# Sui-Devnet-Full-Node-Kurulum-Rehberi
